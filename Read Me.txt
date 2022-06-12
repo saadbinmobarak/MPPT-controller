@@ -1,0 +1,9 @@
+This a practical simulation for designing a MPPT controller for a PV array.
+
+From this simulation, a real time output under different conditions can be observed.
+
+This simulation was done in MATLAB R2021a (Simulink).
+
+Simply open the (.slx) file in MATLAB Simulink and run the simulation.
+
+There is a PDF readout for the different parameters' conditions and values.
